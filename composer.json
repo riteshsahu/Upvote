@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "ritesh/upvote",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Upvote is the single, best place for everyone to ask and answer any question.",
     "keywords": [
         "framework",
         "laravel"
