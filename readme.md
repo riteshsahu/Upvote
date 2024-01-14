@@ -34,6 +34,13 @@
  8. Seed database - `php artisan db:seed`
  9. Should be running at `localhost:8000`
 
+
+**Telescope**
+
+ 1. Publish telescope assets - `php artisan telescope:publish`
+ 2. Access telescope at - `http://localhost:8000/telescope`
+
+
 Note: `main` is stable branch
 
 MySQL - `8.0`
