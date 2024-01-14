@@ -2,7 +2,7 @@
     <div class="container-fluid px-3 px-sm-5">
         <div class="logo-box">
             <a href="{{ url('/') }}">
-                <img src="https://upvote-bucket.s3.ap-south-1.amazonaws.com/logo.svg" alt="logo" class="logo-img">
+                <img src="/favicon.ico" alt="logo" class="logo-img">
             </a>
             <a class="navbar-brand font-weight-bold text-uppercase text-white" href="{{ url('/') }}">
                 {{ config('app.name', 'Upvote') }}

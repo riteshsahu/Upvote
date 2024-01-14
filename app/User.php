@@ -89,8 +89,7 @@ class User extends Authenticatable implements MustVerifyEmail
         if ($avatar) {
             return Storage::url($avatar);
         } else {
-            return Storage::url('avatars/default.png');
-//            return asset('storage/avatars/default.png');    // TODO: remove this line
+            return "https://i.pravatar.cc/150?u={$this->unique_name}";
         }
     }
 
