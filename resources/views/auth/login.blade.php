@@ -71,9 +71,9 @@
                             </div>
                         </div>
 
-                        <hr>
+                        <!-- <hr> -->
 
-                        <div class="text-center row justify-content-center">
+                        <!-- <div class="text-center row justify-content-center">
                             <div>
                                 <div class="border px-5 py-2 rounded box-shadow mb-2">
                                     <a href="{{ url('/login/github') }}" class="social__btn social__btn--github">
@@ -99,7 +99,7 @@
                                     </a>
                                 </div>                                
                             </div>
-                        </div>
+                        </div> -->
                     </form>
                 </div>
             </div>

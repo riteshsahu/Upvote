@@ -70,7 +70,7 @@
                         </div>
                     </form>
 
-                    <hr>
+                    <!-- <hr>
 
                     <div class="text-center row justify-content-center">
                         <div>
@@ -98,7 +98,7 @@
                                 </a>
                             </div>                                
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
