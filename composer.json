@@ -2,6 +2,7 @@
     "name": "ritesh/upvote",
     "type": "project",
     "description": "Upvote is the single, best place for everyone to ask and answer any question.",
+    "version": "8",
     "keywords": [
         "framework",
         "laravel"
